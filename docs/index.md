@@ -11,7 +11,7 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
+    arduino_due    # Not used (replaced by ADS1115).
     docs/
         index.md  # The documentation homepage.
         other.md  # other page.
